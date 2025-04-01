@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeroToHeroTasks", "ZeroToHeroTasks.csproj", "{3E975EC2-545C-4BD1-AB09-3CD33BDA86D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E975EC2-545C-4BD1-AB09-3CD33BDA86D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E975EC2-545C-4BD1-AB09-3CD33BDA86D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E975EC2-545C-4BD1-AB09-3CD33BDA86D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E975EC2-545C-4BD1-AB09-3CD33BDA86D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A09B1994-4177-4E21-AB74-1C684E9FF993}
+	EndGlobalSection
+EndGlobal
